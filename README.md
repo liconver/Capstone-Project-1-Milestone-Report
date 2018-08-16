@@ -1,1 +1,1 @@
-# Capstone-Project-1-Milestone-Report
+# KKbox Churn Model Milestone Report
